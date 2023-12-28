@@ -22,3 +22,9 @@ Add scripts,
 ```
 npm run dev
 ```
+
+## How to use Three.js
+
+- Scene
+- Camera PerspectiveCamera
+- Renderer WebGLRenderer
